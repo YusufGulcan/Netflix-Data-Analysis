@@ -7,7 +7,7 @@ This analysis reveals some vague reality that naked eyes generally miss out.
 
 ![image](https://user-images.githubusercontent.com/105684729/187477736-1edb4b81-33ba-4460-b6da-963061f0034c.png)
 
-Some of the questions that the reader can answer are:
+### Some of the questions that the reader can answer are:
 
 - Which years are the most successful in terms of movies quality?
 - Which countries create the highest quality products on average?
@@ -18,8 +18,12 @@ Some of the questions that the reader can answer are:
 
 ![image](https://user-images.githubusercontent.com/105684729/187479238-4069c5c9-d2d5-43e1-9501-5cc8997f977d.png)
 
-Libraries : 
+### Libraries : 
 -  Pandas, NumPy, Seaborn, Matplotlib
+
+### Visualization 
+
+[Tableau Dashboard](https://public.tableau.com/views/Netflixgenre_16558250788230/DB1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ### Further Improvements
 
